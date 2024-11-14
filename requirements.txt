@@ -1,0 +1,6 @@
+git+https://github.com/compatibl/convince.git
+git+https://github.com/compatibl/tradeentry.git
+pandas
+openai
+matplotlib
+nltk
